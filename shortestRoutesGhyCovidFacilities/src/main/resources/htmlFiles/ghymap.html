@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Ghy City Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="ghymap.css" />
+    <script type="text/javascript" src="ghymap.js"></script>    
+  </head>
+  
+  <body>
+    <div class="pac-card" id="pac-card">
+      <div>
+        <div id="title">Set your location</div>
+        <br />
+      </div>
+      <div id="pac-container">
+        <input id="pac-input" type="text" placeholder="Enter your location" />
+      </div>
+    </div>   
+    <div id="map"></div>
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7fhSdHpnifa6Rv4kUOgaoHMEY-e25tL4&callback=initMap&libraries=places&v=weekly"
+      async >   
+    </script>
+  </body>
+  
+</html>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="356.0" minWidth="541.0" prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: #000;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.springbboot.shortestRoutesGhyCovidFacilities.ControllerInfo">
+   <children>
+      <VBox layoutX="41.0" layoutY="78.0" prefHeight="297.0" prefWidth="802.0">
+         <children>
+            <Label prefHeight="17.0" prefWidth="412.0" text="Links to Government Resources" textFill="#eeeded">
+               <font>
+                  <Font size="24.0" />
+               </font>
+               <VBox.margin>
+                  <Insets bottom="20.0" />
+               </VBox.margin>
+            </Label>
+            <Label text="Covid 19 Info Site, Government of Assam" textFill="#f8f7f7" />
+            <Hyperlink text="https://covid19.assam.gov.in/" textFill="#fcfafa">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Label text="List of Dedicated Covid Hospitals ( Category I )" textFill="#fcf8f8" />
+            <Hyperlink text="https://covid19.assam.gov.in/covid_asm_advisory/dedicated-covid-19-hospitals/" textFill="#fffdfd">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Label text="List of Dedicated Covid Health Centres ( Category II )" textFill="#f5f4f4" />
+            <Hyperlink prefHeight="23.0" prefWidth="801.0" text="https://nhm.assam.gov.in/sites/default/files/swf_utility_folder/departments/nhm_lipl_in_oid_6/portlet/level_2/cat_ii_covid_hospital_10th_may_2020.pdf" textFill="#ebe7e7">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Label text="List of Covid Vaccination Hospitals" textFill="#f8f8f8" />
+            <Hyperlink text="https://pmjay.gov.in/covid-vaccination-hospitals" textFill="#f2f2f2">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Label text="List of Covid Test Centres" textFill="#fffdfd" />
+            <Hyperlink text="https://covid19.assam.gov.in/wp-content/uploads/2020/06/List-of-Government-Hospitals-in-Kamrup.pdf" textFill="#f8f8f8">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Label text="List of Covid Counselling Centres" textFill="#f8f6f6" />
+            <Hyperlink text="https://covid19.assam.gov.in/important_links/covid-counselling-centres-ccc-in-guwahati/" textFill="#fcfcfc">
+               <VBox.margin>
+                  <Insets bottom="20.0" />
+               </VBox.margin>
+            </Hyperlink>
+            <Button mnemonicParsing="false" onAction="#clickback" style="-fx-background-color: #fff;" text="Back" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

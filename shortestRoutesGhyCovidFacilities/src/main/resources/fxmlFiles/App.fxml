@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+<AnchorPane prefHeight="672.0" prefWidth="1293.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.springbboot.shortestRoutesGhyCovidFacilities.ControllerApp">
+   <children>
+      <VBox layoutX="36.0" layoutY="14.0" prefHeight="688.0" prefWidth="1223.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="36.0" AnchorPane.rightAnchor="34.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox prefHeight="40.0" prefWidth="1112.0">
+               <children>
+                  <Label prefHeight="40.0" prefWidth="858.0" text="Search your location and drag the marker to your exact location" textFill="#fffdfd">
+                     <font>
+                        <Font size="11.0" />
+                     </font>
+                  </Label>
+                  <ButtonBar prefHeight="100.0" prefWidth="367.0">
+                    <buttons>
+                        <Button mnemonicParsing="false" onAction="#clickset" prefHeight="25.0" prefWidth="225.0" style="-fx-background-color: #FFFFFF;" text="Set My Location" />
+                        <Button mnemonicParsing="false" onAction="#clickunset" prefHeight="25.0" prefWidth="225.0" style="-fx-background-color: #fff;" text="Unset Location" />
+                    </buttons>
+                  </ButtonBar>
+               </children>
+               <VBox.margin>
+                  <Insets bottom="10.0" top="10.0" />
+               </VBox.margin>
+            </HBox>
+            <WebView fx:id="view" prefHeight="413.0" prefWidth="1223.0">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </WebView>
+            <Label fx:id="message" prefHeight="32.0" prefWidth="1227.0" text="Choose the required facility category and click the &quot;Show Covid Facilities Near Me&quot; button or search for a desired facility" textFill="#f8f7f7">
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </Label>
+            <HBox prefHeight="32.0" prefWidth="1210.0">
+               <children>
+                  <RadioButton fx:id="dch" mnemonicParsing="false" prefHeight="17.0" prefWidth="285.0" text="Category I - Dedicated Covid Hospitals (DCH)" textFill="#f8f3f3" />
+                  <RadioButton fx:id="dchc" mnemonicParsing="false" prefHeight="17.0" prefWidth="328.0" text="Category II - Dedicated Covid Health Centre (DCHC)" textFill="#f5f3f3" />
+                  <RadioButton fx:id="cvh" mnemonicParsing="false" prefHeight="17.0" prefWidth="230.0" text="Covid Vaccination Hospitals (CVH)" textFill="#f2f2f2" />
+                  <RadioButton fx:id="ctc" mnemonicParsing="false" prefHeight="17.0" prefWidth="173.0" text="Covid Test Centers (CTC)" textFill="#eee9e9" />
+                  <RadioButton fx:id="ccc" mnemonicParsing="false" prefHeight="17.0" prefWidth="236.0" text="Covid Counselling Centers (CCC)" textFill="#ebe4e4" />
+               </children>
+               <VBox.margin>
+                  <Insets bottom="5.0" />
+               </VBox.margin>
+            </HBox>
+            <HBox prefHeight="36.0" prefWidth="1223.0">
+               <children>
+                  <RadioButton fx:id="all" mnemonicParsing="false" prefHeight="17.0" prefWidth="111.0" text="All Facilities" textFill="#fffafa" />
+                  <ComboBox fx:id="cb" onAction="#clickcomplete" onKeyReleased="#complete" prefHeight="25.0" prefWidth="272.0">
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin>
+                  </ComboBox>
+                  <Button mnemonicParsing="false" onAction="#clickshow" prefHeight="25.0" prefWidth="276.0" style="-fx-background-color: #FFFFFF;" text="Show Covid Facilities Near Me">
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#clickshowtraffic" prefHeight="25.0" prefWidth="224.0" style="-fx-background-color: #fff;" text="Show City Traffic">
+                     <HBox.margin>
+                        <Insets right="20.0" />
+                     </HBox.margin></Button>
+                  <Button mnemonicParsing="false" onAction="#clickhidetraffic" prefHeight="25.0" prefWidth="213.0" style="-fx-background-color: #fff;" text="Hide City Traffic" />
+               </children>
+               <VBox.margin>
+                  <Insets bottom="5.0" left="30.0" />
+               </VBox.margin>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </HBox>
+            <ButtonBar prefHeight="40.0" prefWidth="904.0">
+              <buttons>
+                  <Button mnemonicParsing="false" onAction="#clickDijkstra" prefHeight="25.0" prefWidth="266.0" style="-fx-background-color: #FFFFFF;" text="Find Shortest Route using Dijkstra's" />
+                  <Button mnemonicParsing="false" onAction="#clickAStar" prefHeight="25.0" style="-fx-background-color: #fff;" text="Find Shortest Route using A Star " />
+                <Button mnemonicParsing="false" onAction="#clickshowvis" prefHeight="25.0" prefWidth="265.0" style="-fx-background-color: #FFFFFF;" text="Show Visualisation" />
+              </buttons>
+               <VBox.margin>
+                  <Insets bottom="5.0" right="200.0" />
+               </VBox.margin>
+            </ButtonBar>
+            <ButtonBar prefHeight="33.0" prefWidth="1145.0">
+              <buttons>
+                <Button mnemonicParsing="false" onAction="#clickhideroute" style="-fx-background-color: #fff;" text="Hide Route" />
+                  <Button mnemonicParsing="false" onAction="#clickhidevis" style="-fx-background-color: #fff;" text="Hide Visualisation" />
+                  <Button mnemonicParsing="false" onAction="#clickreload" prefHeight="25.0" prefWidth="261.0" style="-fx-background-color: #fff;" text="Reload" />
+                  <Button mnemonicParsing="false" onAction="#clickinfo" prefHeight="25.0" style="-fx-background-color: #fff;" text="Links to Govt. resources" />
+              </buttons>
+               <padding>
+                  <Insets right="100.0" />
+               </padding>
+               <VBox.margin>
+                  <Insets bottom="10.0" />
+               </VBox.margin>
+            </ButtonBar>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

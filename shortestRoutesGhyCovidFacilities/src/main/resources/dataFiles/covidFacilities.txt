@@ -1,0 +1,111 @@
+cvh"26.145228421382825"91.78593440727666"Advance Neuro Science Hospital"Kahilipara Road,Lalganesh, Odalbakra, Guwahati Assam Kamrup Metro
+cvh"26.12241610220986"91.80677889561142"Agile Hospital Pvt. Ltd"Jayanagar Chariali, Khanapara Assam Kamrup Metro
+cvh"26.140439771218414"91.6735209078362"Akanksha Hospital Private Limited"Maharishi Path, Gotanagar, Jalukbari	Assam Kamrup Metro
+cvh"26.154281206112724"91.7820502235662"Aksi Advance Eye Centre"G.S.Road,Opp-International Hospital ,Assam Kamrup Metro
+cvh"26.154815459531005"91.78105437174652"Apollo Hospital - Earlier International Hospital"Lotus Tower, Christan Basti, Guwahati	Assam Kamrup Metro
+cvh"26.1667394112012"91.76994280136324"Aruna Memorial Hospital (P) Ltd"Rajgarh Road Near Big Bazaar Assam Kamrup Metro
+cvh"26.175655465136547"91.7532845553373"Arya Hospital"Am Rd, Opposite Apsara Cinema, Manipuri Rajbari, Rehabari, Guwahati, Assam Assam Kamrup Metro
+cvh"26.144906015882658"91.81558565922087"Asg Eye Care"Near Pantaloon Downtown,G.S Road	Assam Kamrup Metro
+cvh"26.10972838493973"91.7195395251593"Ayursundra Superspecialty Hospital (A Unit Of Ayursundra Hospital (Guwahati) Pvt. Ltd.)"Assam Kamrup Metro
+cvh"26.197378192535655"91.76819528603342"Barthakur Clinic Pvt Ltd"Kharguli,Guwahati Assam Kamrup Metro
+cvh"26.130803630466392"91.80002735155465"Central Nursing Home"Beltola,Near Survey Bus Stop Assam Kamrup Metro
+cvh"26.11144823235413"91.75412202354747"Critical Care Hospital & Research Institute"Nh-37,Lokhora Near Central Jail Assam Kamrup Metro
+cvh"26.128281711733838"91.78645927116371"Disha Eye Clinic"Hatigaon Main Road Assam Kamrup Metro
+cvh"26.149912505735102"91.78660535767261"Dispur Hospitals Pvt Ltd"Ganeshguri, Dispur Assam Kamrup Metro
+cvh"26.149437742897998"91.78698769788977"Dispur Polyclinic Hospitals"Ganeshguri, Guwahati, Assam 781006	Assam Kamrup Metro
+cvh"26.13932763643699"91.79936222883633"Downtown Hospital"G.S Road Guwahati 781006 Assam Kamrup Metro
+cvh"26.158471429509927"91.6787553846793"Dr. B.A. Saikia Memorial Nursing Home"Adabari, Guwahati Assam Kamrup Metro
+cvh"26.16089043407438"91.86118693079928"E.G. Nursing Home (P) Ltd."Tiniali,Guwahati-28 Assam Kamrup Metro
+cvh"26.183955562297097"91.78487201349108"East End Nursing Home & Research Institute"East End Nursing Home Assam	Kamrup Metro
+cvh"26.12640578296749"91.68107024232741"Excelcare Hospitals"N.H-37 Paschim Boragaon Near Ganesh Mandir Assam Kamrup Metro
+cvh"26.16219496521649"91.77105487310679"Eye Doctor Hospital"G.S Road Near Abc Bus Stop	Assam Kamrup Metro
+cvh"26.17827535032896"91.80336480053852"Gate Hospital"Mathgharia Tiniali, Zoo Narengi Road Assam Kamrup Metro
+cvh"26.139803175826547"91.79053250371418"Gnrc Dispur"Rukminigaon Dispur Secretariat Assam Kamrup Metro
+cvh"26.131311812124633"91.80780882883631"Gnrc Hospitals Six Mile"Six Mile Guwahati Assam Kamrup Metro
+cvh"26.178568739463937"91.69064161482129"Gnrc Institute Of Medical Sciences"Amingaon Silagrant,Amingaon Assam Kamrup Metro
+cvh"26.173418189853216"91.77166541163697"Guwahati Eye Centre"Rajgarh,Guwahati Assam Kamrup Metro
+cvh"26.171693381141317"91.76205776145281"Guwahati Eye Clinic & R/ Centre"G.S Road, Ulubari Assam Kamrup Metro
+cvh"26.117770499982015"91.81605427672456"Guwahati Metro Hospital"2 No Khanapara Nh 37 Opp Boroland Guest House	Assam	Kamrup Metro
+cvh"26.17526057180232"91.7438200288363"Guwahti Lions Eye Hospital"Satribari ,K.C Road. Assam Kamrup Metro
+cvh"26.128233141773492"91.78057606930959"H. M. Hospital & Research Pvt Ltd"Hatigaon Assam Kamrup Metro
+cvh"26.139311725852732"91.7462166"Hayat Hospital"Kahilipara Road,Lalganesh, Odalbakra, Guwahati	Assam Kamrup Metro
+cvh"26.117309667439578"91.8153241865089"Health City Hospital, Guwahati (A Unit Of North East Health City Pvt. Ltd)"Uday Nagar Opp. Bodoland Guest House, Khanapara
+cvh"26.163902474598306"91.74633559392538"Kalicharan Das Nursing Home & Polyclinic"Gopinath Nagar,Lokhara Road,Kalapahar	Assam Kamrup Metro
+cvh"26.172512247517695"91.78163635767261"Kgmt Multispeciality Hospitals"Mother Teresa Road,Opp-Geetanagar Police Station Assam	Kamrup Metro
+cvh"26.171519006890534"91.73449669814589"Kumar Nursing Home"Krc Road, Kumar Para, Kamrup Metro Assam Kamrup Metro
+cvh"26.171805806393113"91.74021655581849"Marwari Hospitals"Sati Joymoti Road,Aathgaon Assam Kamrup Metro
+cvh"27.489781384693504"94.92380066138081"Medicare Diaganostic Hospitals"Lgb Avenue,Near Circuit House Assam Assam Kamrup Metro
+cvh"26.18648974257284"91.77975770556233"Midland Hospital & Research Centre (P) Ltd"Near Guwahati Zoo, Ghy-5 Assam Kamrup Metro
+cvh"26.207889366066727"91.67764947116369"Narayana Superspeciality Hospital"Tularam Bafna, Civil Hospital Complex, Amingoan Guwahati, Assam Assam Kamrup Metro
+cvh"26.150338499317332"91.78833310537223"Nemcare Hospital"Bhangagarh , Gs Road Guwahati	Assam	Kamrup Metro
+cvh"26.150638651199976"91.78198185396434"Nightingale Hospital"Near Dispur College Assam	Kamrup Metro
+cvh"26.100887494505493"91.87020674974386"North East Cancer Hospital And Research Institute"11Th Mile, Jorabat, Guwahati-23 Assam Kamrup Metro
+cvh"26.173108373946288"91.78429335952671"Pragjyoti Eye Care"Hatigaon Chariali Near Hdfc Branch Assam Kamrup Metro
+cvh"26.159377536531515"91.68590143393257"Pragjyoti Netralaya"Adabari Assam Kamrup Metro
+cvh"26.159882206812252"91.81187240026048"Pratiksha Hospital"Vip Road Six Mile, Borbari, Guwahati, Assam	Assam Kamrup Metro
+cvh"26.13537200576202"91.80940210000001"Rahman Hospitals Pvt. Ltd"Six Mile
+cvh"26.156496413842518"91.77571124418152"Saint Johns Hospital"Gmc Hostel Rd, Christian Basti, Guwahati, Assam Assam Kamrup Metro
+cvh"26.177186825487947"91.7461206000141"Satribari Christian Hospital"Satribari ,K.C Road.
+cvh"26.168176495958004"91.7698312227617"Sight First Eye Clinic"Rajgarh Road, Bhangagara	Assam Kamrup Metro
+cvh"26.12139342766366"91.7996520706514"Sri Sankaradeva Nethralaya"Basistha Road, Beltola Assam	Kamrup Metro
+cvh"26.138422538624873"91.80126093333395"Sun Valley Hospitals"Mathura Nagar Near Pantaloons Assam Kamrup Metro
+cvh"26.16056951531717"91.70750507301783"Swagat Superspeciality Surgical Institute"Dinesh Goswami Path,Gate No-4,Maligaon Assam Kamrup Metro
+cvh"26.184951427993056"91.75851490927057"The Eye Care Centre"Hedayet Pur, Kamrup Metro Assam Kamrup Metro
+cvh"26.175753554138733"91.74262315035787"Vision Hospital"Aathgaon, A.T Road Assam Kamrup Metro
+cvh"26.185645437867123"91.75667097250553"Wintrobe Hospital"Ambari, Guwahati-1
+ctc"26.15012640991575"91.66777421023774"Gauhati Medical College OPD"30, Assam Engineering College Rd, Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781012
+ctc"26.18591995488479"91.74083913105218"Mahendra Mohan Choudhury Hospital OPD"Fancy Bazaar, Guwahati, Assam 781030
+ctc"26.16087756223871"91.6888170188433"Pandhu FRU"Pandu, Guwahati, Assam 781012
+ctc"26.176433413476364"91.75777085025972"Ulubari Urban Hospital"Royale Arcade, Royal Arcade, Bhubaneswar Barua Rd, Kasturba Nagar, Part II, Ulubari, Guwahati, Assam 781007
+ctc"26.139356188303957"91.7907547562755"Dispur Capital Dispenasry"Secretariat Rd, Dispur, Rukmini Gaon, Guwahati, Assam 781006
+ctc"26.12939434806733"91.80985704964678"Khanapara State Dispensary (6th Mile)"Jaya Nagar, Khanapara, Guwahati, Assam 781028
+ctc"26.11659066728807"91.78417591679353"Bhetapara State Dispensary"Vidya Mandir Path, Bhetapara, Guwahati, Assam 781040
+ctc"26.10416112200364"91.7519482030664" Lokhra State Dispensary"Lokhra, Guwahati, Assam 781029
+ctc"26.18976003863812"91.77745456079344"Bamuni Maidam (East Guwahati) State Dispensary"Krishna Nagar Rd, West Jyotinagar, Bamunimaidan, Guwahati, Assam 781004
+ctc"26.165625667249447"91.7270046160299"Santipur (West Guwahati) State Dispensary"West Guwahati
+dchc"26.13933723396714"91.79943733405403"Down Town Hospital"GS Rd, Bormotoria, Guwahati, Assam 781006
+dchc"26.139177093228152"91.7944592616025"GNRC DISPUR"Super Market, GNRC Rd, Dispur, Rukmini Gaon, Guwahati, Assam 781005
+dchc"26.138467098875203"91.79897909082945"Apollo Hospital"GS Rd, opp. Downtown Hospital, Dispur, Rukmini Gaon, Guwahati, Assam 781006
+dchc"26.1092180147056"91.71928208749111"Ayusundra Hospital"Bhabanand Boro Path Opposite: DPS School Ahom Gaon, GARCHUK, Guwahati, Assam 781035
+dchc"26.16423236920714"91.76889201602998"Nemcare Hospital"GMC Hospital Rd, Bhangagarh, Guwahati, Assam 781005
+dchc"26.13140810214384"91.80777664710062"GNRC,Sixmile"Punjab National bank, GS Rd, Six Mile, Guwahati, Assam 781022
+dchc"26.162392247820925"91.75092189281456"LGB TB Hospital"Birubari, Guwahati, Assam 781008
+dchc"26.158606760025688"91.81184701373178"Pratiksha Hospital"Mahapurush Madhabdev Path, Borbari, Guwahati, Assam 781036
+dchc"26.146325323321506"91.72741544528031"Maternity & Child Welfare Hospital"AK Dev Rd, Dhirenpara, Guwahati, Assam 781025
+dchc"26.139282797240256"91.7463024344355"Hayat Hospital"Kahilipara Main Rd, Odalbakra, Kahilipara, Guwahati, Assam 781034
+dchc"26.16093534276875"91.6886990020604"Pandu FRU"Pandu, Guwahati, Assam 781012
+dchc"26.11727110009842"91.81536710477623"Health City Hospital"Uday Nagar, Khanapara, Opp Bodoland Guest House, Guwahati, Assam 781022
+dchc"26.172220836369622"91.74018149534562"Marwari Maternity Hospital"B-3, Sati Joymati Rd, Athgaon, Guwahati, Assam 781001
+dchc"26.105925459682556"92.09031800435045"Khetri CHC"NH 37, Khetri, Assam 782403
+dch"26.121438292382397"91.97627307757918"District Hospital Sonapur"NH 37, Amara N.C., Assam 782402
+dch"26.18577184480296"91.74051753132096"Mahendra Mohan Choudhury Hospital"MG Road, Fancy Bazaar, Guwahati, Assam 781001
+ccc"26.152932246652448"91.65511070287748"Jalukbari Girls High School"Jalukbari, Guwahati, Assam 781014
+ccc"26.164588425776476"91.68518066314577"Pandu Adarsha High School"Maligaon, Guwahati, Assam 781012
+ccc"26.163774377810345"91.70691804391296"Kamakhya Higher Secondary School"Kamakhya, Guwahati, Assam 781010
+ccc"26.164421443296092"91.71875020843018"Durgasarobar Vidyapith High School"Kamakhya Gate, Durgasarobar, Guwahati, Assam 781009
+ccc"26.156914628671817"91.7319969440172"Ambari High School"A.K. Dev Road, Fatasil Ambari, Guwahati, Assam 781025
+ccc"26.174001100818977"91.73085359909746"Kaliram Barua Girls High School"MG Road, Bharalumukh, Guwahati, Assam 781009
+ccc"26.181244721288827"91.74879295277573"Bengali High School"Assam Trunk Rd, Paltan Bazaar, Guwahati, Assam 781001
+ccc"26.191499085920913"91.7539884277639"Uzan Bazar Government High School"Latasil, Uzan Bazar, Guwahati, Assam 781001
+ccc"26.185894675902475"91.77181230592132"Pub Guwahati Adarsha High School"Nizarpar, Krishna Nagar, Chandmari, Guwahati, Assam 781004
+ccc"26.17244244198541"91.76993026592943"Rajgarh Girls High School"Bihutoli, Lachit Nagar, Guwahati, Assam 781003
+ccc"26.15759220723278"91.77201210825757"DISPUR UDAYACHAL HS"Christian Basti, Guwahati, Assam 781034
+ccc"26.167030969955025"91.78390000399199"Zoo Road Vidyapith"Ambikagirinagar, Guwahati, Assam 781024
+ccc"26.178402346508186"91.77738490725568"Bhaskar Vidyapith Higher Secondary School"Bhaskar Nagar, Guwahati, Assam 781003
+ccc"26.190130122132143"91.80075191754067"Guwahati Refinery High School"Maniram Dewan Road, Noonmati, Guwahati, Assam 781020
+ccc"26.17896419160309"91.78419988993886"New Guwahati Adarsha High School"New Guwahati Railway Colony, Railway Colony, Guwahati, Assam 781021
+ccc"26.14153645011088"91.79729532210223"Dispur Govt Higher Secondary School"Sapta Sahid Path, Mathura Nagar, Dispur, Bormotoria, Guwahati, Assam 781036
+ccc"26.179780573152883"91.74138664965282"LOG Hindi High School"SRCB Rd, Near Railway Gate No.3, Fancy Bazaar, Guwahati, Assam 781001
+ccc"26.171012702466054"91.74966429262363"BANIKANTA MEMORIAL GIRLS HS"88, AK Azad Rd, Ulubari, Guwahati, Assam 781008
+ccc"26.16517972097553"91.7398766049138"Bishnupur Bidyaniketan High School"Bishnupur, Fatasil Ambari, Guwahati, Assam 781001
+ccc"26.169337981080965"91.76444624925081"SB Deorah College"Bora Service, Shillong Road, Ulubari, Guwahati, Assam 781007
+ccc"26.157535479216325"91.83830927986968"satgaon high school"Satgaon Main Rd, near Budh Bazar, Satgaon, Guwahati, Assam 781171
+ccc"26.135737135963172"91.79926676123192"Rukmini Gaon Baalika Vidyalay High School"Anupam Path, Lakshmi Mandir Path, Rukmini Nagar, Rukmini Gaon, Guwahati, Assam 782006
+ccc"26.115017615690203"91.79267055009454"Dakshin Beltola High English School"Charali, Kundil Nagar, Guwahati, Assam 781028
+ccc"26.1335513693226"91.78537683077585"Hatigaon High School"Mahapurush Haridev Path, Hatigaon - Beltola Sanjogi Path, Hatigaon Main Rd, Guwahati, Assam 781038
+ccc"26.128456051668692"91.81074720685983"Ganesh Mandir Government Higher Secondary School"Jaya Nagar, Khanapara, Guwahati, Assam 781028
+ccc"26.136976348929423"91.82924589217329"Baghorbori High School"Bagharbari, Guwahati, Assam 781037
+ccc"26.136211868099554"91.67004635913752"Tetelia High School"Tetelia, Guwahati, Assam 781012
+ccc"26.15290590202114"91.73738917272377"Netaji Subash Vidyapith"Fatasil Ambari, Guwahati, Assam 781001
+ccc"26.148744329498445"91.74245708677846"Dakshin Guwahati High School"Binowa Nagar, Kala Pahar, Guwahati, Assam 781032
+ccc"26.139589771120722"91.7528413180951"Sabitri Bharali M.E/High School"12, Chandra Path, Odalbakra, Kahilipara, Guwahati, Assam 781034
